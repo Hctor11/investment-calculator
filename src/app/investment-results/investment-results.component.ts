@@ -16,5 +16,5 @@ export class InvestmentResultsComponent {
     annualInvestment: number,
     totalInterest: number,
     totalAmountInvested: number,
-  }
+  }[]
 }

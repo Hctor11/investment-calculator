@@ -3,7 +3,7 @@ form {
   max-width: 30rem;
   margin: 2rem auto;
   border-radius: 4px;
-  background: linear-gradient(180deg, #307e6c, #2b996d);
+  background: linear-gradient(180deg, #e1e1e1, #c8c8c8);
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
 
@@ -25,19 +25,19 @@ label {
 input {
   width: 100%;
   padding: 0.5rem;
-  border: 1px solid #76c0ae;
+  border: 1px solid #000000;
   border-radius: 0.25rem;
   background-color: transparent;
-  color: #c2e9e0;
+  color: #000000;
   font-size: 1rem;
 }
 
 button {
   width: 100%;
   padding: 0.5rem;
-  border: 1px solid #76c0ae;
+  border: 1px solid #ffffff;
   border-radius: 0.25rem;
-  background-color: #83e6c0;
+  background-color: #ffffff;
   color: #1a1f1d;
   font-size: 1rem;
   font-weight: bold;
@@ -46,5 +46,5 @@ button {
 }
 
 button:hover {
-  background-color: #aaf1d6;
+  background-color: #d6d6d6;
 }
