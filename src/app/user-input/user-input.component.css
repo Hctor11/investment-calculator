@@ -3,7 +3,7 @@ form {
   max-width: 30rem;
   margin: 2rem auto;
   border-radius: 4px;
-  background: linear-gradient(180deg, #e1e1e1, #c8c8c8);
+  background:#ffffff;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
 
@@ -37,8 +37,8 @@ button {
   padding: 0.5rem;
   border: 1px solid #ffffff;
   border-radius: 0.25rem;
-  background-color: #ffffff;
-  color: #1a1f1d;
+  background-color: #4e4e4e;
+  color: #dddddd;
   font-size: 1rem;
   font-weight: bold;
   text-transform: uppercase;
@@ -46,5 +46,5 @@ button {
 }
 
 button:hover {
-  background-color: #d6d6d6;
+  background-color: #8b8b8b;
 }

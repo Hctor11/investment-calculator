@@ -9,6 +9,8 @@
 
       <th>Investment value</th>
 
+      <th>Interest</th>
+
       <th>Total interest</th>
 
       <th>Invested capital</th>
@@ -21,16 +23,16 @@
         {{ result.year }}
       </td>
       <td>
-        {{ result.valueEndOfYear }}
+        {{ result.valueEndOfYear | currency }}
       </td>
       <td>
-        {{ result.interest }}
+        {{ result.interest | currency }}
       </td>
       <td>
-        {{ result.totalInterest }}
+        {{ result.totalInterest | currency }}
       </td>
       <td>
-        {{ result.totalAmountInvested }}
+        {{ result.totalAmountInvested | currency}}
       </td>
     </tr>
     }

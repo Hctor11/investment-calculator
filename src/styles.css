@@ -10,7 +10,7 @@ body {
   font-family: 'Quicksand', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: radial-gradient(#373737, #222222);
+  background: radial-gradient(#f3f3f3, #d4d4d4);
   color: #535353;
   min-height: 100vh;
 }
